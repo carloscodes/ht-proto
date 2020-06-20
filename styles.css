@@ -1,0 +1,21 @@
+html,
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#info {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+#search {
+  float: right;
+}
+
+p {
+  font-size: 30px;
+}
